@@ -1,1 +1,3 @@
-test d atelier modification 1
+# FOLDER_NAME
+Basic boilerplate to start future projects.
+
